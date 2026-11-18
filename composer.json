@@ -1,0 +1,7 @@
+{
+  "name": "test/php-node-frontend",
+  "description": "PHP frontend for Node API",
+  "require": {
+    "php": ">=7.4"
+  }
+}
